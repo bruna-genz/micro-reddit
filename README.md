@@ -1,24 +1,14 @@
-# README
+# Micro-reddit Project - Microverse
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+This is the fourth project from Ruby on Rails course on [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails). This application focuses only in the database and models implementations, with the aim of understanting Active Record.
 
-* Ruby version
+## Used
 
-* System dependencies
+* Ruby on Rails 6.0.0
 
-* Configuration
+## Authors
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Bruna Genz](https://github.com/bruna-genz)
+* [Nicolás Mariño](https://github.com/nicolasmarino99)
